@@ -47,7 +47,7 @@ BuildRequires: gtk2 >= %{gtk_version}
 BuildRequires: gtkhtml2-devel >= %{gtkhtml2_version}
 BuildRequires: gtkspell-devel >= %{gtkspell_version}
 BuildRequires: libbonoboui-devel
-BuildRequires: pygtk2-devel
+BuildRequires: pygtk2.0-devel
 BuildRequires: python-devel
 
 %if %{enable_gda}
